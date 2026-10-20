@@ -187,6 +187,7 @@
 - [Podcastle](https://podcastle.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Studio-quality recording, AI-powered editing, and seamless exporting.
 - [cleanvoice](https://cleanvoice.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.
 - [Super Hi-Fi](https://www.superhifi.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Artificial Intelligence Powered Music Experiences.
+- [Fablesh](https://fablesh.com/ai-music-on-the-radio?ref=ai-audio-tools) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Free internet radio airplay for independent and AI-made music, with listener figures for the artist.
 
 [↑ Back to top](#quick-navigation)
 
